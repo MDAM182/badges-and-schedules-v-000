@@ -5,7 +5,7 @@ end
 def batch_badge_creator(name)
   name.each do |name|
     puts "Hello, my name is #{name}."
-    brak
+    break
   end
   batch_badge_creator(name)
 end
