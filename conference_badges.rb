@@ -8,7 +8,6 @@ def batch_badge_creator(name)
       batch_badge_creator(name)
     break
   end
-
 end
 
 
